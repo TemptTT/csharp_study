@@ -1,0 +1,11 @@
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\BUTTON GUI.csprojAssemblyReference.cache
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\BUTTON GUI.csproj.GenerateResource.cache
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\BUTTON GUI.csproj.CoreCompileInputs.cache
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\WINFORM PROJECT\BASIC_CONTROLS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.f.resources
